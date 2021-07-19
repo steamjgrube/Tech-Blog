@@ -1,8 +1,4 @@
-# My Tech Blog #
-
-## What it is: ##
-
-This is a CMS-style blog site where a user can create an account to publish articles, blog posts, thoughts and opinions. 
+Tech Blog
 
 ## How to use: ##
 
@@ -41,7 +37,3 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
-
-## Demo: ##
-
-![techblog](https://user-images.githubusercontent.com/48900910/124625662-fdfc0e80-de4b-11eb-996e-1fba53d0a1a3.gif)
